@@ -1,2 +1,2 @@
-# C-
+# C++
 Small C++ Projects
